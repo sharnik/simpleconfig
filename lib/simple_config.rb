@@ -1,4 +1,5 @@
 require 'yaml'
+require 'simple_config/railtie.rb' if defined?(Rails) && Rails::VERSION::MAJOR > 2
 
 module SimpleConfig
 
