@@ -30,7 +30,7 @@ end
 #
 spec = Gem::Specification.new do |s|
   s.name     = "simpleconfig"
-  s.version  = "1.1.3"
+  s.version  = "1.2.0"
   s.date     = "2010-09-13"
   s.summary  = "Simple object-oriented application settings for Ruby applications"
   s.email    = "luke@lukeredpath.co.uk"
